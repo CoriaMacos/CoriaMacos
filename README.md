@@ -1,7 +1,6 @@
 Coria Marcos 
-Alumno de la Tecnica N°1 Monte Grande
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+Alumno de la Tecnica N°1 Monte Grande
 
 <!--
 **CoriaMacos/CoriaMacos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
