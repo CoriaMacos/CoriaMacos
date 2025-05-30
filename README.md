@@ -1,4 +1,5 @@
-## Hi there 👋
+Coria Marcos 
+Alumno de la Tecnica N°1 Monte Grande
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
