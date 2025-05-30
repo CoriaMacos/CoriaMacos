@@ -1,8 +1,6 @@
-#hola
+
 
 Coria Marcos 
-
-Alumno de la Tecnica N°1 Monte Grande
 
 <!--
 **CoriaMacos/CoriaMacos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
